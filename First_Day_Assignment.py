@@ -12,6 +12,8 @@ print("Satement 10")
 2. Print the statement by using loop statement
 
 '''
+
+# code is as under
 stno=1
 for i in range(5):
     print("Statemnt", stno)
