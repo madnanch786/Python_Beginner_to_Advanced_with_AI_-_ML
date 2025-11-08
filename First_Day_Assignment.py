@@ -11,13 +11,12 @@ print("Satement 10")
 
 2. Print the statement by using loop statement
 
+3. Multiply the string statement with 5 like this print("Statement\n" *5)
 '''
 
 # code is as under
-stno=1
-for i in range(5):
-    print("Statemnt", stno)
-    stno=stno+1
+
+print("Statement\n" *5)
 
 
 
