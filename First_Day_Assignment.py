@@ -1,4 +1,4 @@
-''' Write a progra to print a statement 10 times
+''' Write a program to print a statement 10 times
 Ans: There are Two ways to do this
 1. write print statement 10 time Like 
 print("Satement 1")
