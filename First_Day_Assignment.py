@@ -16,7 +16,7 @@ print("Satement 10")
 
 # code is as under
 
-print("Statement\n" *5)
+print("Adnan\n" *10)
 
 
 
